@@ -5,6 +5,7 @@
 
 int main() {
 	setlocale(LC_ALL, "Russian"); // установка русской локализации
+//	setlocale(LC_ALL, "ru_RU.UTF-8"); // установка русской локализации
 
 	float x, y, b;
 	printf("Введите исходные данные х, b через пробел : ");

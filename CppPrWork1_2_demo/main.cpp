@@ -3,8 +3,9 @@
 using namespace std;
 
 int main() {
-	setlocale(LC_ALL, "Russian"); //установим русский язык
-
+	setlocale(LC_ALL, "Russian"); // установка русской локализации
+//	setlocale(LC_ALL, "ru_RU.UTF-8"); // установка русской локализации
+	
 	const int NUM_ROWS = 5; //константа количества строк
 	const int NUM_COLS = 5; //константа количества столбцов
 

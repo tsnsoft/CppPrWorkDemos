@@ -19,7 +19,8 @@ const int n = 3; // количество костюмов
 costume mas[n]; // массив структур
 
 int main() {
-	setlocale(LC_ALL, "Russian"); //устанавливаем русский язык
+	setlocale(LC_ALL, "Russian"); // установка русской локализации
+//	setlocale(LC_ALL, "ru_RU.UTF-8"); // установка русской локализации
 
 	// Запись данных в файл
 	ofstream f_out("costume.txt"); //открываем файл для записи

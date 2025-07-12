@@ -1,2 +1,2 @@
 # CppPrWorkDemos
- Examples of practical work for RedPanda-CPP
+ Examples of the simplest console practical work for RedPanda-CPP
